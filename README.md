@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 is Li Tianhao.A positive and dependable student who is swift to hear, slow to speak.
 <!--
 **Li-tianhao/Li-tianhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Math to prepare for my compitition and learn English
+- 💬 Ask me about Math and something about chinese culture, if I know,I will exchange my ideas with you.
+- 📫 How to reach me: You can reach me by QQ:1581075061 or Wechat:Gloaming1949 or send me a e-mail by 1580175061@qq.com
