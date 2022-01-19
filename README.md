@@ -1,6 +1,7 @@
 ### Hi there 👋, 👋 This  is Li Tianhao.
 #### A positive and dependable student who is swift to hear, slow to speak
-![A positive and dependable student who is swift to hear, slow to speak](./pic.png)
+![A positive and dependable student who is swift to hear, slow to speak]
+(./pic.jpg)
 
 A thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution.
 
