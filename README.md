@@ -1,18 +1,30 @@
-### Hi there 👋 is Li Tianhao.A positive and dependable student who is swift to hear, slow to speak.
-<!--
-**Li-tianhao/Li-tianhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, 👋 This  is Li Tianhao.
+#### A positive and dependable student who is swift to hear, slow to speak
+![A positive and dependable student who is swift to hear, slow to speak](./pic.png)
 
-Here are some ideas to get you started:
+A thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning Math to prepare for my compitition and learn English
-- 💬 Ask me about Math and something about chinese culture, if I know,I will exchange my ideas with you.
-- 📫 How to reach me: You can reach me by QQ:1581075061 or Wechat:Gloaming1949 or send me a e-mail by 1580175061@qq.com
+Skills: programming/Math 
+
+- 🔭 I’m currently working on Management System  
+- 🌱 I’m currently learning Math to prepare for my compitition and learn English 
+- 👯 I’m looking to collaborate on C Projects  
+- 💬 Ask me about Calculus  
+- 📫 How to reach me: e-mail: 1580175061@qq.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Li-tianhao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Li-tianhao.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg' alt='wechat' height='40'>](Gloaming1949)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qzone.svg' alt='qzone' height='40'>](1581075061)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Li-tianhao)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-tianhao&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Li-tianhao)  
+
+![GitHub metrics](https://metrics.lecoq.io/Li-tianhao)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Li-tianhao)  
+
+![Profile views](https://gpvc.arturio.dev/Li-tianhao)  
